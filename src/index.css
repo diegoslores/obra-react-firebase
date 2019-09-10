@@ -16,7 +16,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+/* Inicio START*/
+.texto-inicio {
+  border-top: solid #357df8 1px;
+  border-bottom: solid #357df8 1px;
+  margin: 20px;
+  background-image: url("/images/logoObradoiroGrande.jpg"),
+    linear-gradient(45deg, #c5e4fd, #ffffff, #c5e4fd);
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
+.logo-titulo {
+  font-size: 30px;
+  line-height: 1.5em;
+  text-align: center;
+  color: black;
+  margin: 3em 0;
+}
+.texto-titulo {
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  margin: 2em 0;
+}
+
+/* Inicio FIN */
 /* <Header> START */
 
 .header-container {
